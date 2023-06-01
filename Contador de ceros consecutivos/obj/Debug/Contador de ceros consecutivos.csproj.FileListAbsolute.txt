@@ -1,0 +1,8 @@
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Contador de ceros consecutivos\bin\Debug\Contador de ceros consecutivos.exe.config
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Contador de ceros consecutivos\bin\Debug\Contador de ceros consecutivos.exe
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Contador de ceros consecutivos\bin\Debug\Contador de ceros consecutivos.pdb
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Contador de ceros consecutivos\obj\Debug\Contador de ceros consecutivos.csproj.AssemblyReference.cache
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Contador de ceros consecutivos\obj\Debug\Contador de ceros consecutivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Contador de ceros consecutivos\obj\Debug\Contador de ceros consecutivos.csproj.CoreCompileInputs.cache
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Contador de ceros consecutivos\obj\Debug\Contador de ceros consecutivos.exe
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Contador de ceros consecutivos\obj\Debug\Contador de ceros consecutivos.pdb
